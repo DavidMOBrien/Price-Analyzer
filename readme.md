@@ -1,4 +1,4 @@
-## Trader Bot
+## Price Analyzer
 
 **Resources**
 - https://docs.tcgplayer.com/docs
